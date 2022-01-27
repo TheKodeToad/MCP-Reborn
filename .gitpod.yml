@@ -1,2 +1,0 @@
-tasks:
-  - init: sdk install java 17.0.0-tem;sdk default java 17.0.0-tem;./gradlew setup;./gradlew runclient
